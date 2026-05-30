@@ -1,0 +1,104 @@
+MIME-Version: 1.0
+Date: Thu, 07 May 2026 09:00:00 +0000
+From: Gamma Newsletter <newsletter@gamma.app>
+To: subscriber@example.com
+Subject: 💡 5 Gamma Tips to Create Better Presentations Faster
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gamma Newsletter – Tips & Tricks</title>
+  <style>
+    body { margin: 0; padding: 0; background-color: #f0f4ff; font-family: 'Segoe UI', Arial, sans-serif; }
+    .wrapper { max-width: 620px; margin: 40px auto; background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    .header { background: linear-gradient(135deg, #1a1a2e 0%, #6c3de0 100%); padding: 40px 40px 30px; text-align: center; }
+    .header h1 { color: #ffffff; font-size: 24px; margin: 0 0 8px; font-weight: 700; }
+    .header p { color: rgba(255,255,255,0.75); font-size: 13px; margin: 0; }
+    .badge { display: inline-block; background: rgba(255,255,255,0.15); color: #e0d0ff; font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 20px; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1px; }
+    .body { padding: 36px 40px; }
+    .intro { font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px; }
+    .tip { display: flex; align-items: flex-start; gap: 16px; margin-bottom: 22px; padding-bottom: 22px; border-bottom: 1px solid #f0f0f0; }
+    .tip:last-of-type { border-bottom: none; }
+    .tip-num { background: #6c3de0; color: #fff; font-size: 13px; font-weight: 700; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 2px; }
+    .tip-content h3 { margin: 0 0 5px; font-size: 15px; color: #222; font-weight: 700; }
+    .tip-content p { margin: 0; font-size: 14px; color: #555; line-height: 1.6; }
+    .highlight-box { background: #f8f5ff; border: 1px solid #d4b8ff; border-radius: 8px; padding: 18px 22px; margin: 28px 0; font-size: 14px; color: #5b2eb0; line-height: 1.6; }
+    .highlight-box strong { display: block; margin-bottom: 4px; font-size: 15px; }
+    .cta-block { text-align: center; margin: 28px 0 8px; }
+    .cta-btn { display: inline-block; background: #6c3de0; color: #fff; text-decoration: none; font-size: 15px; font-weight: 600; padding: 14px 36px; border-radius: 8px; }
+    .footer { background: #fafafa; padding: 24px 40px; text-align: center; font-size: 12px; color: #aaa; }
+    .footer a { color: #a259ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="badge">Tips &amp; Tricks</div>
+      <h1>Work Smarter with Gamma</h1>
+      <p>Thursday, May 7, 2026 &nbsp;·&nbsp; Vol. 13</p>
+    </div>
+    <div class="body">
+      <p class="intro">
+        Hi there 👋,<br><br>
+        Whether you're a new user or a Gamma power user, these five tips will help you create stunning decks in half the time. Let's dive in.
+      </p>
+
+      <div class="tip">
+        <div class="tip-num">1</div>
+        <div class="tip-content">
+          <h3>Start with a Prompt, Not a Blank Page</h3>
+          <p>Type your topic and click "Generate." Gamma builds a full outline instantly — you just refine it. No more staring at empty slides.</p>
+        </div>
+      </div>
+
+      <div class="tip">
+        <div class="tip-num">2</div>
+        <div class="tip-content">
+          <h3>Use "/" Commands Anywhere</h3>
+          <p>Inside any card, press "/" to insert charts, tables, code blocks, embeds, and more. It's your shortcut to rich content without friction.</p>
+        </div>
+      </div>
+
+      <div class="tip">
+        <div class="tip-num">3</div>
+        <div class="tip-content">
+          <h3>Lock Your Brand Colors</h3>
+          <p>Upload your logo and set your hex colors once in Theme Studio. Every new project stays on-brand automatically — no manual adjustments needed.</p>
+        </div>
+      </div>
+
+      <div class="tip">
+        <div class="tip-num">4</div>
+        <div class="tip-content">
+          <h3>Present Directly from Gamma</h3>
+          <p>Hit "Present" to open a distraction-free mode. No exports, no PowerPoint. Share a live link so your audience always sees the latest version.</p>
+        </div>
+      </div>
+
+      <div class="tip">
+        <div class="tip-num">5</div>
+        <div class="tip-content">
+          <h3>Use Analytics to Improve</h3>
+          <p>See who viewed your deck, how long they spent on each slide, and where they dropped off. Use insights to sharpen your next presentation.</p>
+        </div>
+      </div>
+
+      <div class="highlight-box">
+        <strong>💬 Pro Tip of the Month</strong>
+        Paste a Google Doc or a URL into Gamma and let AI convert it into a beautiful presentation automatically — perfect for turning reports into pitches.
+      </div>
+
+      <div class="cta-block">
+        <a href="https://gamma.app" class="cta-btn">Open Gamma and Try It →</a>
+      </div>
+    </div>
+    <div class="footer">
+      You're receiving this because you subscribed to Gamma updates.<br/>
+      <a href="#">Unsubscribe</a> &nbsp;·&nbsp; <a href="#">Privacy Policy</a> &nbsp;·&nbsp; <a href="#">gamma.app</a>
+    </div>
+  </div>
+</body>
+</html>

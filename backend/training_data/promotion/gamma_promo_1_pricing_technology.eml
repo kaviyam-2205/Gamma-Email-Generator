@@ -1,0 +1,180 @@
+MIME-Version: 1.0
+Date: Thu, 07 May 2026 09:00:00 +0000
+From: Gamma <hello@gamma.app>
+To: subscriber@example.com
+Subject: ⚡ Gamma Plans & Technology — Everything You Need to Know
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gamma – Plans & Technology</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 0; background: #f5f5f7; font-family: 'Segoe UI', Arial, sans-serif; color: #1a1a1a; }
+    .wrapper { max-width: 620px; margin: 36px auto; background: #ffffff; border-radius: 14px; overflow: hidden; border: 1px solid #e8e8e8; }
+
+    /* Header */
+    .header { padding: 36px 40px 28px; border-bottom: 1px solid #f0f0f0; display: flex; align-items: center; justify-content: space-between; }
+    .logo { font-size: 22px; font-weight: 800; color: #6c3de0; letter-spacing: -0.5px; }
+    .logo span { color: #1a1a1a; }
+    .date-tag { font-size: 12px; color: #999; font-weight: 500; }
+
+    /* Hero */
+    .hero { padding: 36px 40px 28px; border-bottom: 1px solid #f0f0f0; }
+    .hero-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #a259ff; margin-bottom: 10px; }
+    .hero h1 { font-size: 26px; font-weight: 800; margin: 0 0 12px; color: #111; line-height: 1.3; }
+    .hero p { font-size: 14px; color: #555; line-height: 1.7; margin: 0; }
+
+    /* Section Title */
+    .section { padding: 32px 40px; border-bottom: 1px solid #f0f0f0; }
+    .section-label { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #a259ff; margin-bottom: 18px; }
+    .section-title { font-size: 17px; font-weight: 700; color: #111; margin: 0 0 20px; }
+
+    /* Pricing Cards */
+    .pricing-row { display: flex; gap: 14px; }
+    .plan { flex: 1; border: 1.5px solid #e8e8e8; border-radius: 10px; padding: 20px 18px; position: relative; }
+    .plan.popular { border-color: #a259ff; }
+    .popular-badge { position: absolute; top: -11px; left: 50%; transform: translateX(-50%); background: #a259ff; color: #fff; font-size: 10px; font-weight: 700; padding: 3px 12px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.8px; white-space: nowrap; }
+    .plan-name { font-size: 13px; font-weight: 700; color: #555; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+    .plan-price { font-size: 28px; font-weight: 800; color: #111; margin-bottom: 2px; }
+    .plan-price span { font-size: 13px; font-weight: 500; color: #999; }
+    .plan-desc { font-size: 12px; color: #888; margin-bottom: 14px; line-height: 1.5; }
+    .plan-features { list-style: none; padding: 0; margin: 0; }
+    .plan-features li { font-size: 12px; color: #444; padding: 5px 0; border-bottom: 1px solid #f5f5f5; display: flex; align-items: center; gap: 7px; }
+    .plan-features li:last-child { border-bottom: none; }
+    .check { color: #a259ff; font-weight: 700; font-size: 13px; }
+    .plan-btn { display: block; text-align: center; margin-top: 16px; padding: 10px; border-radius: 7px; font-size: 13px; font-weight: 600; text-decoration: none; border: 1.5px solid #e0e0e0; color: #444; }
+    .plan.popular .plan-btn { background: #6c3de0; color: #fff; border-color: #6c3de0; }
+
+    /* Technology */
+    .tech-grid { display: flex; flex-wrap: wrap; gap: 14px; }
+    .tech-card { flex: 1 1 calc(50% - 7px); border: 1px solid #f0f0f0; border-radius: 10px; padding: 18px; background: #fafafa; min-width: 200px; }
+    .tech-icon { font-size: 22px; margin-bottom: 8px; }
+    .tech-name { font-size: 13px; font-weight: 700; color: #111; margin-bottom: 5px; }
+    .tech-desc { font-size: 12px; color: #666; line-height: 1.6; margin: 0; }
+
+    /* CTA */
+    .cta-section { padding: 32px 40px; text-align: center; border-bottom: 1px solid #f0f0f0; }
+    .cta-section p { font-size: 14px; color: #555; margin-bottom: 18px; }
+    .cta-btn { display: inline-block; background: #6c3de0; color: #fff; text-decoration: none; font-size: 14px; font-weight: 600; padding: 13px 34px; border-radius: 8px; }
+
+    /* Footer */
+    .footer { padding: 22px 40px; text-align: center; font-size: 12px; color: #bbb; }
+    .footer a { color: #a259ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="logo">gamma<span>.app</span></div>
+    <div class="date-tag">May 2026 · Promotional</div>
+  </div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="hero-label">Special Offer</div>
+    <h1>The Right Plan &amp; Technology<br/>for Every Team</h1>
+    <p>From solo creators to enterprise teams — Gamma gives you AI-powered presentation tools built on cutting-edge technology. Find your perfect plan today.</p>
+  </div>
+
+  <!-- Pricing -->
+  <div class="section">
+    <div class="section-label">Pricing</div>
+    <div class="section-title">Simple, Transparent Plans</div>
+    <div class="pricing-row">
+
+      <div class="plan">
+        <div class="plan-name">Free</div>
+        <div class="plan-price">$0 <span>/ mo</span></div>
+        <div class="plan-desc">Perfect for individuals getting started.</div>
+        <ul class="plan-features">
+          <li><span class="check">✓</span> 10 AI credits/month</li>
+          <li><span class="check">✓</span> Unlimited decks</li>
+          <li><span class="check">✓</span> Basic themes</li>
+          <li><span class="check">✓</span> Gamma branding</li>
+        </ul>
+        <a href="https://gamma.app" class="plan-btn">Get Started</a>
+      </div>
+
+      <div class="plan popular">
+        <div class="popular-badge">Most Popular</div>
+        <div class="plan-name">Pro</div>
+        <div class="plan-price">$10 <span>/ mo</span></div>
+        <div class="plan-desc">Best for professionals &amp; creators.</div>
+        <ul class="plan-features">
+          <li><span class="check">✓</span> Unlimited AI credits</li>
+          <li><span class="check">✓</span> Custom branding</li>
+          <li><span class="check">✓</span> 50+ premium themes</li>
+          <li><span class="check">✓</span> Analytics &amp; insights</li>
+        </ul>
+        <a href="https://gamma.app" class="plan-btn">Upgrade to Pro</a>
+      </div>
+
+      <div class="plan">
+        <div class="plan-name">Enterprise</div>
+        <div class="plan-price">Custom</div>
+        <div class="plan-desc">For large teams &amp; organizations.</div>
+        <ul class="plan-features">
+          <li><span class="check">✓</span> Everything in Pro</li>
+          <li><span class="check">✓</span> SSO &amp; admin controls</li>
+          <li><span class="check">✓</span> Priority support</li>
+          <li><span class="check">✓</span> SLA guarantee</li>
+        </ul>
+        <a href="https://gamma.app" class="plan-btn">Contact Sales</a>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Technology -->
+  <div class="section">
+    <div class="section-label">Technology</div>
+    <div class="section-title">Powered by Modern AI &amp; Infrastructure</div>
+    <div class="tech-grid">
+
+      <div class="tech-card">
+        <div class="tech-icon">🤖</div>
+        <div class="tech-name">GPT-4o AI Engine</div>
+        <p class="tech-desc">Context-aware generation that understands your audience, tone, and content goals.</p>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">⚡</div>
+        <div class="tech-name">Real-Time Rendering</div>
+        <p class="tech-desc">Instant preview as you type — no refresh, no lag. Built on a blazing-fast edge network.</p>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🔒</div>
+        <div class="tech-name">Enterprise Security</div>
+        <p class="tech-desc">SOC 2 Type II certified. AES-256 encryption at rest and in transit.</p>
+      </div>
+
+      <div class="tech-card">
+        <div class="tech-icon">🔗</div>
+        <div class="tech-name">100+ Integrations</div>
+        <p class="tech-desc">Connect Notion, Google Drive, Figma, Slack, and more via native integrations.</p>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta-section">
+    <p>Start free, upgrade anytime. No credit card required.</p>
+    <a href="https://gamma.app" class="cta-btn">Get Started with Gamma →</a>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    © 2026 Gamma · <a href="#">Unsubscribe</a> · <a href="#">Privacy Policy</a> · <a href="#">gamma.app</a>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,147 @@
+MIME-Version: 1.0
+Date: Mon, 25 May 2026 10:45:00 +0530
+Message-ID: <20260525104500.edu001@learnhub.edu>
+From: LearnHub Admissions <welcome@learnhub.edu>
+To: New Student <student@email.com>
+Subject: Welcome to LearnHub – Let's Start Learning! 🎓
+Content-Type: multipart/alternative; boundary="----=_Part_EDU_001"
+
+------=_Part_EDU_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Student,
+
+Congratulations and welcome to LearnHub!
+
+We are excited to have you join our learning community of over 2 million students worldwide. Your enrollment has been confirmed and your account is now active.
+
+GETTING STARTED:
+
+  1. Access Your Student Dashboard
+     View your enrolled courses, upcoming deadlines, and progress reports.
+     https://app.learnhub.edu/dashboard
+
+  2. Explore Your Courses
+     Your enrolled courses are ready and waiting for you.
+     https://app.learnhub.edu/my-courses
+
+  3. Meet Your Instructors
+     Introduce yourself in the course community forums.
+     https://app.learnhub.edu/community
+
+  4. Download the LearnHub App
+     Learn on the go — even offline — with our mobile app.
+     https://app.learnhub.edu/mobile
+
+  5. Set Your Learning Goals
+     Use our goal tracker to stay on top of your studies.
+     https://app.learnhub.edu/goals
+
+YOUR STUDENT RESOURCES:
+  - Academic Support: support@learnhub.edu
+  - Technical Help: techhelp@learnhub.edu
+  - Student Helpdesk: +91 90000 22222 (Mon–Fri, 9 AM – 6 PM IST)
+  - Help Center: https://help.learnhub.edu
+
+Tips for Success:
+  * Set aside dedicated study time each day
+  * Participate actively in discussion forums
+  * Reach out to your instructor whenever you have questions
+  * Take advantage of our live doubt-clearing sessions every week
+
+We believe in your potential and are here to support you every step of the way!
+
+Best wishes,
+The LearnHub Team
+www.learnhub.edu
+welcome@learnhub.edu
+
+------=_Part_EDU_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.7; max-width: 600px; margin: auto;">
+
+  <div style="background: linear-gradient(135deg, #10B981, #059669); padding: 28px; text-align: center; border-radius: 8px 8px 0 0;">
+    <h1 style="color: #ffffff; margin: 0; font-size: 26px;">Welcome to LearnHub! 🎓</h1>
+    <p style="color: #d1fae5; margin: 8px 0 0;">Joined a community of 2 million+ learners worldwide</p>
+  </div>
+
+  <div style="padding: 28px; background-color: #ffffff; border: 1px solid #e0e0e0;">
+    <p>Dear Student,</p>
+    <p><strong>Congratulations!</strong> Your enrollment has been confirmed and your account is now active. We're thrilled to have you join our learning community.</p>
+
+    <p><strong>Getting started:</strong></p>
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="padding: 12px; background: #F0FDF4; border-left: 4px solid #10B981; border-radius: 4px; display: block;">
+          <strong>1. Access Your Student Dashboard</strong><br>
+          View enrolled courses, upcoming deadlines, and progress reports.<br>
+          <a href="https://app.learnhub.edu/dashboard" style="color: #059669;">Go to Dashboard →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 12px; background: #F0FDF4; border-left: 4px solid #10B981; border-radius: 4px; display: block;">
+          <strong>2. Explore Your Courses</strong><br>
+          Your enrolled courses are ready and waiting for you.<br>
+          <a href="https://app.learnhub.edu/my-courses" style="color: #059669;">My Courses →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 12px; background: #F0FDF4; border-left: 4px solid #10B981; border-radius: 4px; display: block;">
+          <strong>3. Meet Your Instructors</strong><br>
+          Introduce yourself in the course community forums.<br>
+          <a href="https://app.learnhub.edu/community" style="color: #059669;">Join Community →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 12px; background: #F0FDF4; border-left: 4px solid #10B981; border-radius: 4px; display: block;">
+          <strong>4. Download the LearnHub App</strong><br>
+          Learn on the go — even offline — with our mobile app.<br>
+          <a href="https://app.learnhub.edu/mobile" style="color: #059669;">Get the App →</a>
+        </td>
+      </tr>
+    </table>
+
+    <div style="text-align: center; margin: 28px 0;">
+      <a href="https://app.learnhub.edu/dashboard" style="background-color: #10B981; color: white; padding: 12px 32px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">Go to My Dashboard</a>
+    </div>
+
+    <div style="background: #FFFBEB; border: 1px solid #FDE68A; border-radius: 6px; padding: 14px; font-size: 13px;">
+      <strong>💡 Tips for Success:</strong>
+      <ul style="margin: 8px 0 0; padding-left: 20px;">
+        <li>Set aside dedicated study time each day</li>
+        <li>Participate actively in discussion forums</li>
+        <li>Reach out to your instructor whenever you have questions</li>
+        <li>Take advantage of our <strong>live doubt-clearing sessions</strong> every week</li>
+      </ul>
+    </div>
+
+    <div style="margin-top: 16px; font-size: 13px; color: #555;">
+      <strong>📚 Student Resources:</strong><br>
+      Academic Support: <a href="mailto:support@learnhub.edu" style="color: #059669;">support@learnhub.edu</a><br>
+      Technical Help: <a href="mailto:techhelp@learnhub.edu" style="color: #059669;">techhelp@learnhub.edu</a><br>
+      Helpdesk: <strong>+91 90000 22222</strong> (Mon–Fri, 9 AM – 6 PM IST)
+    </div>
+
+    <p style="margin-top: 20px;">We believe in your potential and are here to support you every step of the way!</p>
+
+    <p>Best wishes,<br><strong>The LearnHub Team</strong></p>
+  </div>
+
+  <div style="text-align: center; padding: 12px; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb;">
+    © 2026 LearnHub | <a href="#" style="color: #9ca3af;">Unsubscribe</a> | <a href="#" style="color: #9ca3af;">Privacy Policy</a>
+  </div>
+
+</body>
+</html>
+
+------=_Part_EDU_001--

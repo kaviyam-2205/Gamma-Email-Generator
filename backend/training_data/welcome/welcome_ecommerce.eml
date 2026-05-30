@@ -1,0 +1,80 @@
+MIME-Version: 1.0
+Date: Mon, 25 May 2026 10:00:00 +0530
+Message-ID: <20260525100000.ecom001@shopmart.com>
+From: ShopMart Team <welcome@shopmart.com>
+To: New Customer <customer@email.com>
+Subject: Welcome to ShopMart – Your Shopping Journey Starts Here! 🛍️
+Content-Type: multipart/alternative; boundary="----=_Part_ECOM_001"
+
+------=_Part_ECOM_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Valued Customer,
+
+Welcome to ShopMart! We're thrilled to have you on board.
+
+Your account has been successfully created. Here's what you can do next:
+
+  1. Browse 50,000+ products across all categories
+  2. Enjoy FREE shipping on your first order
+  3. Use code WELCOME20 for 20% off your first purchase
+  4. Track all your orders in real time from your dashboard
+
+As a new member, you also get access to exclusive member-only deals and early sale notifications.
+
+Start Shopping: https://www.shopmart.com/shop
+
+If you need any help, our support team is available 24/7 at support@shopmart.com or +91 98000 11111.
+
+Happy Shopping!
+
+The ShopMart Team
+www.shopmart.com
+support@shopmart.com
++91 98000 11111
+
+------=_Part_ECOM_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; max-width: 600px; margin: auto;">
+
+  <div style="background-color: #FF6600; padding: 24px; text-align: center; border-radius: 8px 8px 0 0;">
+    <h1 style="color: #ffffff; margin: 0; font-size: 26px;">Welcome to ShopMart! 🛍️</h1>
+  </div>
+
+  <div style="padding: 24px; background-color: #fafafa; border: 1px solid #e0e0e0;">
+    <p>Dear Valued Customer,</p>
+    <p>We're thrilled to have you on board. Your account has been successfully created!</p>
+
+    <p><strong>Here's what you can do next:</strong></p>
+    <ol>
+      <li>Browse <strong>50,000+ products</strong> across all categories</li>
+      <li>Enjoy <strong>FREE shipping</strong> on your first order</li>
+      <li>Use code <strong style="color: #FF6600;">WELCOME20</strong> for <strong>20% off</strong> your first purchase</li>
+      <li>Track all your orders in real time from your dashboard</li>
+    </ol>
+
+    <p>As a new member, you also get access to <strong>exclusive member-only deals</strong> and early sale notifications.</p>
+
+    <div style="text-align: center; margin: 28px 0;">
+      <a href="https://www.shopmart.com/shop" style="background-color: #FF6600; color: white; padding: 12px 32px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">Start Shopping</a>
+    </div>
+
+    <p>If you need any help, our support team is available <strong>24/7</strong> at <a href="mailto:support@shopmart.com">support@shopmart.com</a> or <strong>+91 98000 11111</strong>.</p>
+
+    <p>Happy Shopping!<br><strong>The ShopMart Team</strong></p>
+  </div>
+
+  <div style="text-align: center; padding: 12px; font-size: 12px; color: #999;">
+    © 2026 ShopMart | <a href="#" style="color: #999;">Unsubscribe</a> | <a href="#" style="color: #999;">Privacy Policy</a>
+  </div>
+
+</body>
+</html>
+
+------=_Part_ECOM_001--

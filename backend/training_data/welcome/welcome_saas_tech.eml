@@ -1,0 +1,112 @@
+MIME-Version: 1.0
+Date: Mon, 25 May 2026 10:15:00 +0530
+Message-ID: <20260525101500.saas001@flowdesk.io>
+From: FlowDesk Team <hello@flowdesk.io>
+To: New User <user@company.com>
+Subject: You're in! Welcome to FlowDesk 🚀
+Content-Type: multipart/alternative; boundary="----=_Part_SAAS_001"
+
+------=_Part_SAAS_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+
+Welcome to FlowDesk! Your account is all set up and ready to go.
+
+FlowDesk helps your team collaborate, automate workflows, and ship faster — all in one place.
+
+Here's how to get started in 3 easy steps:
+
+  Step 1 – Set up your workspace
+  Customize your dashboard and invite your team members.
+  https://app.flowdesk.io/setup
+
+  Step 2 – Connect your tools
+  Integrate with Slack, GitHub, Jira, and 100+ other apps.
+  https://app.flowdesk.io/integrations
+
+  Step 3 – Launch your first workflow
+  Use one of our ready-made templates to get productive immediately.
+  https://app.flowdesk.io/templates
+
+Your FREE trial includes all Pro features for 14 days — no credit card required.
+
+Need help? Our onboarding specialists are here for you:
+  - Live Chat: https://app.flowdesk.io/chat
+  - Help Center: https://help.flowdesk.io
+  - Email: support@flowdesk.io
+
+Let's build something great together!
+
+The FlowDesk Team
+www.flowdesk.io
+support@flowdesk.io
+
+------=_Part_SAAS_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; color: #222; line-height: 1.7; max-width: 600px; margin: auto;">
+
+  <div style="background: linear-gradient(135deg, #4F46E5, #7C3AED); padding: 28px; text-align: center; border-radius: 8px 8px 0 0;">
+    <h1 style="color: #fff; margin: 0; font-size: 26px;">You're in! Welcome to FlowDesk 🚀</h1>
+    <p style="color: #c7d2fe; margin: 8px 0 0;">Your 14-day Pro trial has started</p>
+  </div>
+
+  <div style="padding: 28px; background-color: #ffffff; border: 1px solid #e5e7eb;">
+    <p>Hi there,</p>
+    <p>Your account is all set up and ready to go. FlowDesk helps your team <strong>collaborate, automate workflows, and ship faster</strong> — all in one place.</p>
+
+    <p><strong>Get started in 3 easy steps:</strong></p>
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="padding: 12px; background: #F5F3FF; border-radius: 8px; margin-bottom: 10px; display: block;">
+          <strong style="color: #4F46E5;">Step 1 – Set up your workspace</strong><br>
+          Customize your dashboard and invite your team members.<br>
+          <a href="https://app.flowdesk.io/setup" style="color: #4F46E5;">Go to Setup →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 12px; background: #F5F3FF; border-radius: 8px; display: block;">
+          <strong style="color: #4F46E5;">Step 2 – Connect your tools</strong><br>
+          Integrate with Slack, GitHub, Jira, and 100+ other apps.<br>
+          <a href="https://app.flowdesk.io/integrations" style="color: #4F46E5;">Browse Integrations →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 12px; background: #F5F3FF; border-radius: 8px; display: block;">
+          <strong style="color: #4F46E5;">Step 3 – Launch your first workflow</strong><br>
+          Use ready-made templates to get productive immediately.<br>
+          <a href="https://app.flowdesk.io/templates" style="color: #4F46E5;">View Templates →</a>
+        </td>
+      </tr>
+    </table>
+
+    <div style="text-align: center; margin: 28px 0;">
+      <a href="https://app.flowdesk.io" style="background-color: #4F46E5; color: white; padding: 12px 32px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">Go to My Dashboard</a>
+    </div>
+
+    <p>Need help? Our onboarding specialists are here:<br>
+      💬 <a href="https://app.flowdesk.io/chat">Live Chat</a> &nbsp;|&nbsp;
+      📖 <a href="https://help.flowdesk.io">Help Center</a> &nbsp;|&nbsp;
+      ✉️ <a href="mailto:support@flowdesk.io">support@flowdesk.io</a>
+    </p>
+
+    <p>Let's build something great together!<br><strong>The FlowDesk Team</strong></p>
+  </div>
+
+  <div style="text-align: center; padding: 12px; font-size: 12px; color: #9ca3af;">
+    © 2026 FlowDesk Inc. | <a href="#" style="color: #9ca3af;">Unsubscribe</a> | <a href="#" style="color: #9ca3af;">Privacy Policy</a>
+  </div>
+
+</body>
+</html>
+
+------=_Part_SAAS_001--

@@ -1,0 +1,113 @@
+MIME-Version: 1.0
+Date: Thu, 07 May 2026 09:00:00 +0000
+From: Gamma Newsletter <newsletter@gamma.app>
+To: subscriber@example.com
+Subject: 📊 Gamma Monthly Digest — May 2026 Highlights
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gamma Newsletter – Monthly Digest</title>
+  <style>
+    body { margin: 0; padding: 0; background-color: #f4f6fb; font-family: 'Segoe UI', Arial, sans-serif; }
+    .wrapper { max-width: 620px; margin: 40px auto; background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    .header { background: linear-gradient(135deg, #0f172a 0%, #312e81 100%); padding: 40px 40px 30px; text-align: center; }
+    .header h1 { color: #ffffff; font-size: 24px; margin: 0 0 8px; font-weight: 700; }
+    .header p { color: rgba(255,255,255,0.7); font-size: 13px; margin: 0; }
+    .badge { display: inline-block; background: rgba(162,89,255,0.3); color: #d4b8ff; font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 20px; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1px; }
+    .body { padding: 36px 40px; }
+    .intro { font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px; }
+    .stat-row { display: flex; gap: 14px; margin-bottom: 28px; }
+    .stat-box { flex: 1; background: #f8f5ff; border-radius: 10px; padding: 18px 14px; text-align: center; border: 1px solid #e5d9ff; }
+    .stat-box .num { font-size: 26px; font-weight: 800; color: #6c3de0; margin-bottom: 4px; }
+    .stat-box .label { font-size: 12px; color: #888; font-weight: 500; }
+    .section-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #a259ff; margin-bottom: 14px; }
+    .news-item { padding: 14px 0; border-bottom: 1px solid #f0f0f0; }
+    .news-item:last-of-type { border-bottom: none; }
+    .news-item h3 { margin: 0 0 5px; font-size: 14px; font-weight: 700; color: #222; }
+    .news-item p { margin: 0; font-size: 13px; color: #666; line-height: 1.6; }
+    .news-item .tag { display: inline-block; background: #ede9fe; color: #6c3de0; font-size: 11px; padding: 2px 8px; border-radius: 4px; margin-bottom: 6px; font-weight: 600; }
+    .divider { border: none; border-top: 1px solid #eee; margin: 28px 0; }
+    .spotlight { background: linear-gradient(135deg, #6c3de0, #a259ff); border-radius: 10px; padding: 22px 24px; color: #fff; margin-bottom: 28px; }
+    .spotlight h3 { margin: 0 0 8px; font-size: 16px; font-weight: 700; }
+    .spotlight p { margin: 0 0 14px; font-size: 13px; line-height: 1.6; opacity: 0.9; }
+    .spotlight a { display: inline-block; background: rgba(255,255,255,0.2); color: #fff; text-decoration: none; font-size: 13px; font-weight: 600; padding: 8px 20px; border-radius: 6px; }
+    .cta-block { text-align: center; margin: 28px 0 8px; }
+    .cta-btn { display: inline-block; background: #6c3de0; color: #fff; text-decoration: none; font-size: 15px; font-weight: 600; padding: 14px 36px; border-radius: 8px; }
+    .footer { background: #fafafa; padding: 24px 40px; text-align: center; font-size: 12px; color: #aaa; }
+    .footer a { color: #a259ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="badge">Monthly Digest</div>
+      <h1>May 2026 — Gamma Highlights</h1>
+      <p>Thursday, May 7, 2026 &nbsp;·&nbsp; Vol. 14</p>
+    </div>
+    <div class="body">
+      <p class="intro">
+        Hi there 👋,<br><br>
+        Here's your monthly roundup — what's new, what's trending, and what's coming next at Gamma. A lot happened in April. Let's catch you up.
+      </p>
+
+      <!-- Stats -->
+      <div class="stat-row">
+        <div class="stat-box">
+          <div class="num">4.2M</div>
+          <div class="label">Decks Created</div>
+        </div>
+        <div class="stat-box">
+          <div class="num">98%</div>
+          <div class="label">Uptime in April</div>
+        </div>
+        <div class="stat-box">
+          <div class="num">+18%</div>
+          <div class="label">New Users MoM</div>
+        </div>
+      </div>
+
+      <!-- Spotlight -->
+      <div class="spotlight">
+        <h3>🌟 Customer Spotlight: Acme Corp</h3>
+        <p>Acme's sales team cut deck creation time from 3 hours to 20 minutes using Gamma. They now close 30% more pitches with on-brand, AI-generated proposals.</p>
+        <a href="https://gamma.app">Read the Case Study →</a>
+      </div>
+
+      <!-- News -->
+      <div class="section-title">📰 What's New This Month</div>
+
+      <div class="news-item">
+        <span class="tag">Feature</span>
+        <h3>Smart Image Search</h3>
+        <p>Gamma now suggests contextually relevant images from Unsplash and your own uploads — no more hunting for the right visual.</p>
+      </div>
+
+      <div class="news-item">
+        <span class="tag">Integration</span>
+        <h3>Notion & Google Drive Sync</h3>
+        <p>Pull content directly from your Notion pages or Google Docs into any Gamma project. Keeps your source of truth in sync.</p>
+      </div>
+
+      <div class="news-item">
+        <span class="tag">Coming Soon</span>
+        <h3>Gamma for Mobile</h3>
+        <p>A fully native iOS and Android app is in final testing. Expect a public launch by end of May — edit decks from anywhere.</p>
+      </div>
+
+      <hr class="divider"/>
+
+      <div class="cta-block">
+        <a href="https://gamma.app" class="cta-btn">Explore What's New →</a>
+      </div>
+    </div>
+    <div class="footer">
+      You're receiving this because you subscribed to Gamma updates.<br/>
+      <a href="#">Unsubscribe</a> &nbsp;·&nbsp; <a href="#">Privacy Policy</a> &nbsp;·&nbsp; <a href="#">gamma.app</a>
+    </div>
+  </div>
+</body>
+</html>

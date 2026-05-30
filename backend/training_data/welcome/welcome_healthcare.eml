@@ -1,0 +1,129 @@
+MIME-Version: 1.0
+Date: Mon, 25 May 2026 10:30:00 +0530
+Message-ID: <20260525103000.health001@medicare.com>
+From: MediCare Patient Services <noreply@medicareclinic.com>
+To: New Patient <patient@email.com>
+Subject: Welcome to MediCare – Your Health, Our Priority 🏥
+Content-Type: multipart/alternative; boundary="----=_Part_HEALTH_001"
+
+------=_Part_HEALTH_001
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Patient,
+
+Welcome to MediCare! We are delighted to have you as part of our healthcare family.
+
+Your patient profile has been successfully created. Here is everything you need to know to get started:
+
+YOUR NEXT STEPS:
+
+  1. Complete Your Health Profile
+     Help us serve you better by filling in your medical history and current medications.
+     https://patient.medicareclinic.com/profile
+
+  2. Book Your First Appointment
+     Schedule a consultation with one of our specialists at your convenience.
+     https://patient.medicareclinic.com/appointments
+
+  3. Download the MediCare App
+     Access your health records, prescriptions, and lab reports anytime.
+     https://patient.medicareclinic.com/app
+
+  4. Set Up Emergency Contact
+     Ensure we can reach your loved ones when needed.
+     https://patient.medicareclinic.com/emergency-contact
+
+IMPORTANT CONTACT INFORMATION:
+  - 24/7 Helpline: 1800-MED-CARE (1800-633-2273)
+  - Appointments: appointments@medicareclinic.com
+  - General Enquiries: info@medicareclinic.com
+
+Your health and well-being are our top priority. We look forward to being your trusted healthcare partner.
+
+Warm regards,
+Patient Care Team
+MediCare Clinic
+www.medicareclinic.com
+
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for the use of the individual named above and may contain confidential patient information. If you are not the intended recipient, please notify us immediately and delete this email.
+
+------=_Part_HEALTH_001
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.7; max-width: 600px; margin: auto;">
+
+  <div style="background-color: #0EA5E9; padding: 28px; text-align: center; border-radius: 8px 8px 0 0;">
+    <h1 style="color: #ffffff; margin: 0; font-size: 24px;">Welcome to MediCare 🏥</h1>
+    <p style="color: #e0f2fe; margin: 8px 0 0; font-size: 14px;">Your Health, Our Priority</p>
+  </div>
+
+  <div style="padding: 28px; background-color: #ffffff; border: 1px solid #e0e0e0;">
+    <p>Dear Patient,</p>
+    <p>We are delighted to have you as part of our healthcare family. Your patient profile has been <strong>successfully created</strong>.</p>
+
+    <p><strong>Your next steps:</strong></p>
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td style="padding: 14px; background: #F0F9FF; border-left: 4px solid #0EA5E9; border-radius: 4px; margin-bottom: 10px; display: block;">
+          <strong>1. Complete Your Health Profile</strong><br>
+          Help us serve you better by filling in your medical history and current medications.<br>
+          <a href="https://patient.medicareclinic.com/profile" style="color: #0EA5E9;">Update Profile →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 14px; background: #F0F9FF; border-left: 4px solid #0EA5E9; border-radius: 4px; display: block;">
+          <strong>2. Book Your First Appointment</strong><br>
+          Schedule a consultation with one of our specialists at your convenience.<br>
+          <a href="https://patient.medicareclinic.com/appointments" style="color: #0EA5E9;">Book Now →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 14px; background: #F0F9FF; border-left: 4px solid #0EA5E9; border-radius: 4px; display: block;">
+          <strong>3. Download the MediCare App</strong><br>
+          Access your health records, prescriptions, and lab reports anytime.<br>
+          <a href="https://patient.medicareclinic.com/app" style="color: #0EA5E9;">Get the App →</a>
+        </td>
+      </tr>
+      <tr><td style="height: 10px;"></td></tr>
+      <tr>
+        <td style="padding: 14px; background: #F0F9FF; border-left: 4px solid #0EA5E9; border-radius: 4px; display: block;">
+          <strong>4. Set Up Emergency Contact</strong><br>
+          Ensure we can reach your loved ones when needed.<br>
+          <a href="https://patient.medicareclinic.com/emergency-contact" style="color: #0EA5E9;">Add Contact →</a>
+        </td>
+      </tr>
+    </table>
+
+    <div style="text-align: center; margin: 28px 0;">
+      <a href="https://patient.medicareclinic.com" style="background-color: #0EA5E9; color: white; padding: 12px 32px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;">Go to My Patient Portal</a>
+    </div>
+
+    <div style="background: #FFF7ED; border: 1px solid #FED7AA; border-radius: 6px; padding: 14px; font-size: 13px;">
+      <strong>📞 Important Contacts:</strong><br>
+      24/7 Helpline: <strong>1800-MED-CARE</strong><br>
+      Appointments: <a href="mailto:appointments@medicareclinic.com" style="color: #0EA5E9;">appointments@medicareclinic.com</a><br>
+      General Enquiries: <a href="mailto:info@medicareclinic.com" style="color: #0EA5E9;">info@medicareclinic.com</a>
+    </div>
+
+    <p style="margin-top: 20px;">Your health and well-being are our top priority. We look forward to being your trusted healthcare partner.</p>
+
+    <p>Warm regards,<br><strong>Patient Care Team</strong><br>MediCare Clinic</p>
+  </div>
+
+  <div style="padding: 14px; background: #f8f8f8; border: 1px solid #e0e0e0; font-size: 11px; color: #888; border-radius: 0 0 8px 8px;">
+    <strong>CONFIDENTIALITY NOTICE:</strong> This email and any attachments are intended solely for the use of the individual named above and may contain confidential patient information. If you are not the intended recipient, please notify us immediately and delete this email.<br><br>
+    © 2026 MediCare Clinic | <a href="#" style="color: #888;">Unsubscribe</a> | <a href="#" style="color: #888;">Privacy Policy</a>
+  </div>
+
+</body>
+</html>
+
+------=_Part_HEALTH_001--

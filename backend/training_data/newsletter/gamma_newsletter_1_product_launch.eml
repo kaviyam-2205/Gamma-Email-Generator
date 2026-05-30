@@ -1,0 +1,74 @@
+MIME-Version: 1.0
+Date: Thu, 07 May 2026 09:00:00 +0000
+From: Gamma Newsletter <newsletter@gamma.app>
+To: subscriber@example.com
+Subject: 🚀 Introducing Gamma 3.0 — AI Presentations, Reimagined
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gamma Newsletter – Product Launch</title>
+  <style>
+    body { margin: 0; padding: 0; background-color: #f4f4f7; font-family: 'Segoe UI', Arial, sans-serif; }
+    .wrapper { max-width: 620px; margin: 40px auto; background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    .header { background: linear-gradient(135deg, #6c3de0 0%, #a259ff 100%); padding: 40px 40px 30px; text-align: center; }
+    .header img { width: 48px; height: 48px; margin-bottom: 12px; }
+    .header h1 { color: #ffffff; font-size: 26px; margin: 0 0 8px; font-weight: 700; letter-spacing: -0.5px; }
+    .header p { color: rgba(255,255,255,0.85); font-size: 14px; margin: 0; }
+    .badge { display: inline-block; background: rgba(255,255,255,0.2); color: #fff; font-size: 11px; font-weight: 600; padding: 4px 12px; border-radius: 20px; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1px; }
+    .body { padding: 36px 40px; }
+    .intro { font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 28px; }
+    .feature-card { background: #f8f5ff; border-left: 4px solid #a259ff; border-radius: 8px; padding: 16px 20px; margin-bottom: 16px; }
+    .feature-card h3 { margin: 0 0 6px; font-size: 15px; color: #6c3de0; font-weight: 700; }
+    .feature-card p { margin: 0; font-size: 14px; color: #555; line-height: 1.6; }
+    .cta-block { text-align: center; margin: 32px 0 8px; }
+    .cta-btn { display: inline-block; background: linear-gradient(135deg, #6c3de0, #a259ff); color: #fff; text-decoration: none; font-size: 15px; font-weight: 600; padding: 14px 36px; border-radius: 8px; }
+    .divider { border: none; border-top: 1px solid #eee; margin: 32px 0; }
+    .footer { background: #fafafa; padding: 24px 40px; text-align: center; font-size: 12px; color: #aaa; }
+    .footer a { color: #a259ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="badge">Product Update</div>
+      <h1>Gamma 3.0 is Here</h1>
+      <p>Thursday, May 7, 2026 &nbsp;·&nbsp; Vol. 12</p>
+    </div>
+    <div class="body">
+      <p class="intro">
+        Hi there 👋,<br><br>
+        We're thrilled to announce <strong>Gamma 3.0</strong> — our biggest release yet. From smarter AI generation to seamless team collaboration, this update transforms how you create presentations, documents, and webpages.
+      </p>
+
+      <div class="feature-card">
+        <h3>✨ Smarter AI Generation</h3>
+        <p>Generate polished decks from a single prompt. Gamma now understands tone, audience, and context — delivering first drafts that are 70% ready to share.</p>
+      </div>
+
+      <div class="feature-card">
+        <h3>🎨 New Theme Studio</h3>
+        <p>Choose from 50+ professionally designed themes or build your own brand kit. Consistent colors, fonts, and logos across every card — automatically.</p>
+      </div>
+
+      <div class="feature-card">
+        <h3>👥 Real-Time Collaboration</h3>
+        <p>Edit together with your team in real time. See cursors, leave comments, and resolve feedback without leaving Gamma.</p>
+      </div>
+
+      <hr class="divider"/>
+
+      <div class="cta-block">
+        <a href="https://gamma.app" class="cta-btn">Try Gamma 3.0 Free →</a>
+      </div>
+    </div>
+    <div class="footer">
+      You're receiving this because you subscribed to Gamma updates.<br/>
+      <a href="#">Unsubscribe</a> &nbsp;·&nbsp; <a href="#">Privacy Policy</a> &nbsp;·&nbsp; <a href="#">gamma.app</a>
+    </div>
+  </div>
+</body>
+</html>
